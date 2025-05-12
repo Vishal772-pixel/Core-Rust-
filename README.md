@@ -45,15 +45,7 @@ Although they are so awesome, we have our own secret weapons :)
 
 ## 🏅 Contributors
 
-Thanks to all of our [contributors]("https://github.com/organisations/credarix")!
-
-<br />
-
-        </td>
-    </tr>
-</table>
-
-<br />
+Thanks to all of our [contributors]("https://github.com/organisations/credarix")
 
 ## Running locally
 
