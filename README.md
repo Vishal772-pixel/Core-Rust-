@@ -53,7 +53,7 @@ Thanks to all of our [contributors](https://github.com/organisations/credarix)!
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/Vishal772-pixel”>
+            <a href="https://github.com/Vishal772-pixel>
                 <img src="https://avatars.githubusercontent.com/u/71984506?v=4?s=100" width="160px"   alt=""/>
                 <br />
                 <sub><b>Believer</b></sub>
