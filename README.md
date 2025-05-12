@@ -45,7 +45,7 @@ Although they are so awesome, we have our own secret weapons :)
 
 ## 🏅 Contributors
 
-Thanks to all of our [contributors](https://github.com/sunface/rust-by-practice/graphs/contributors)!
+Thanks to all of our [contributors](https://github.com/organisations/credarix)!
 
 <br />
 
@@ -53,10 +53,10 @@ Thanks to all of our [contributors](https://github.com/sunface/rust-by-practice/
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/Tanish-Eagle">
+            <a href="https://github.com/Vishal772-pixel”>
                 <img src="https://avatars.githubusercontent.com/u/71984506?v=4?s=100" width="160px"   alt=""/>
                 <br />
-                <sub><b>Tanish-Eagle</b></sub>
+                <sub><b>Believer</b></sub>
             </a>
         </td>
     </tr>
