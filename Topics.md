@@ -1,4 +1,3 @@
-
 Rust for Web3 — Full Roadmap + Syllabus
 
 Phase 1: Rust Fundamentals
