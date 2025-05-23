@@ -31,6 +31,21 @@ i=i+100;
 print ("x={}",x)
 }
 
+//Booleans 
+fn main ()
+{
+let is_male:bool=true;
+let mut is_above_18:bool=true;
+
+if is_male {
+print!("is male");}
+if is_above_18 {
+print!("is above 18");}
+if is_male && is_above_18 {
+print!( " is male and above 18");}
+
+}
+
 
 
 
