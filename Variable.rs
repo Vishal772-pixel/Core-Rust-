@@ -21,6 +21,19 @@ print!("x:{},y:{},z:{}", x,y,z);
 }
 
 
+//Comman Loop in Rust 
+fn main ()
+{
+let mut x:i32= 100
+for i:i32 in  0...1000 {
+i=i+100;
+}
+print ("x={}",x)
+}
+
+
+
+
 
 
 
