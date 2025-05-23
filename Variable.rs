@@ -9,8 +9,8 @@ print(" Welcome to Rust and Web3 Backend ");
 
 
 // Get about signed and unsigned integers 
-limit of variables i8,i16,i32 and all
-f
+//limit of variables i8,i16,i32 and all
+
 fn main ()
 {
 int x:i8= 5 ;// signed integer can be negative or positive 
@@ -21,7 +21,7 @@ print!("x:{},y:{},z:{}", x,y,z);
 }
 
 
-}
+
 
 
 
