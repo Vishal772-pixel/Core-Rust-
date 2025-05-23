@@ -41,9 +41,15 @@ Intermediate Topics
 6. References 
 
 Advance Topics
+
 1.Traits
+
 2. Generic
+
 3.Lifetimes
+
 4. Multi threading 
+
 5.Macros
+
 6.Futures/Async await
