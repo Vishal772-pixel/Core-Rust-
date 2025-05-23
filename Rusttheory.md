@@ -1,0 +1,1 @@
+In rust , if your program compiles...it would probably work 
