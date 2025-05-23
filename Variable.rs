@@ -1,7 +1,7 @@
 //Printing a Statement in Rust 
 fn main ()
 {
-print(" Welcome to Rust and Web3 Backend "); 
+print!(" Welcome to Rust and Web3 Backend "); 
 }
 
 //Run through cammand "Cargo run" 
@@ -28,7 +28,7 @@ let mut x:i32= 100
 for i:i32 in  0...1000 {
 i=i+100;
 }
-print ("x={}",x)
+print!("x={}",x)
 }
 
 //Booleans 
