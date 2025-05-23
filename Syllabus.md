@@ -26,9 +26,6 @@ Easy Topics
 
 
 
-
-
-
 Intermediate Topics 
 
 1. Memory Management 
