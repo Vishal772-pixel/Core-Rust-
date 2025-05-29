@@ -20,4 +20,11 @@ let char1:Option<char>=greeting.char().nth(0);
 print!("char1:{}",char1.unwrap());
 }
 
+//Second way to iterate a String (better way)
+
+let char1:Option<char>=greeting.char().nth(11);
+match char1{
+Some (c:char)=>print!("{}",c),
+None =>println!("No character at index1");
+}
 
