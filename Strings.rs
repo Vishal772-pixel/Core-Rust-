@@ -11,4 +11,6 @@ print!("{}",greeting);
 
 fn main()
 let greetings:String=String::from("Hello world");
+printf("{}",greeting);
+
 
