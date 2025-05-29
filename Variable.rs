@@ -46,6 +46,16 @@ print!( " is male and above 18");}
 
 }
 
+//Conditionals
+fn even(){
+let is_even:bool= true;
+if is_even {
+print!("Even");
+}
+else if !is_even{
+print!("Odd");
+}}
+
 
 
 
